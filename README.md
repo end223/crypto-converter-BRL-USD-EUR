@@ -4,7 +4,7 @@ Este é um projeto de um conversor de criptomoedas desenvolvido em JavaScript. O
 
 Funcionalidades:
 - Listagem das 20 principais criptomoedas (Você pode ajustar para a quantidade desejada em api.js);
-- Conversão entre diferentes moedas (BRL, USD, EUR);
+- Conversão das criptomoedas em BRL, USD, EUR;
 - Opção de escolher outra criptomoeda para conversão;
 - Encerramento do programa de forma simples.
 
