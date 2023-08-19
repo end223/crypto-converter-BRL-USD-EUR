@@ -9,7 +9,7 @@ Funcionalidades:
 - Encerramento do programa de forma simples.
 
 Instruções:
-1. Certifique-se de ter o Node.js instalado.
+1. Certifique-se de ter o Node.js e a biblioteca axios instalada.
 2. Clone este repositório.
 3. Insira sua API_KEY da CoinMarketCap no arquivo api.js.
 4. Navegue até o diretório do projeto usando o terminal.
