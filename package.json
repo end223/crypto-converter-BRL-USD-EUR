@@ -1,0 +1,19 @@
+{
+  "name": "conversor-de-cripto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/end223/crypto-converter-BRL-USD-EUR.git"
+  },
+  "author": "end223",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/end223/crypto-converter-BRL-USD-EUR/issues"
+  },
+  "homepage": "https://github.com/end223/crypto-converter-BRL-USD-EUR#readme"
+}
