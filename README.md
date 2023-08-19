@@ -9,11 +9,12 @@ Funcionalidades:
 - Encerramento do programa de forma simples.
 
 Instruções:
-1. Certifique-se de ter o Node.js e a biblioteca axios instalada.
-2. Clone este repositório.
-3. Insira sua API_KEY da CoinMarketCap no arquivo api.js.
-4. Navegue até o diretório do projeto usando o terminal.
-5. Execute o comando 'node main.js' para iniciar o programa.
+1. Certifique-se de ter o Node.js instalado.
+2. No console, navegue até a pasta do projeto e instale a biblioteca axios usando o comando: npm install axios.
+3. Clone este repositório.
+4. Insira sua API_KEY da CoinMarketCap no arquivo api.js.
+5. Navegue até o diretório do projeto usando o terminal.
+6. Execute o comando 'node main.js' para iniciar o programa.
 
 O programa oferece uma interface de linha de comando (CLI) em português para interagir com as funcionalidades. Siga as instruções no console para realizar conversões de criptomoedas.
 
